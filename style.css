@@ -1,0 +1,13 @@
+.container{
+    width: 11%;
+    flex-direction: column;
+    text-align: center;
+}
+p{
+    margin: 0%;
+    border: 1px solid black;
+}
+p:hover{
+    background-color: indianred;
+    
+}
